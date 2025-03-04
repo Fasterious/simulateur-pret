@@ -1,6 +1,6 @@
 # Simulateur de Prêt Immobilier
 
-Un calculateur de prêt immobilier interactif inspiré par le simulateur de [Meilleurtaux.com](https://www.meilleurtaux.com/credit-immobilier/simulation-de-pret-immobilier/calcul-des-mensualites.html).
+Un calculateur de prêt immobilier interactif
 
 Simulateur de prêt immobilier interactif permettant de calculer les mensualités et le coût total d'un crédit immobilier. Cet outil offre une interface intuitive avec des sliders dynamiques, un tableau d'amortissement détaillé et une visualisation claire de la répartition des paiements (capital, intérêts, assurance).
 
