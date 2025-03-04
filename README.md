@@ -4,7 +4,7 @@ Un calculateur de prêt immobilier interactif
 
 Simulateur de prêt immobilier interactif permettant de calculer les mensualités et le coût total d'un crédit immobilier. Cet outil offre une interface intuitive avec des sliders dynamiques, un tableau d'amortissement détaillé et une visualisation claire de la répartition des paiements (capital, intérêts, assurance).
 
-![Aperçu du simulateur](https://via.placeholder.com/800x400?text=Simulateur+de+Pr%C3%AAt+Immobilier)
+![Aperçu du simulateur](https://api.microlink.io/?url=https://fasterious.github.io/simulateur-pret/&screenshot=true&meta=false&embed=screenshot.url)
 
 ## Fonctionnalités
 
